@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ekza", "ekza\ekza.csproj", "{73C48B2F-AE04-4132-BA91-9418AF36F7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dadadaddddddddd", "dadadaddddddddd\dadadaddddddddd.csproj", "{2B05A9BD-DF8A-4C33-AC07-E311B4E79EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daddaa", "daddaa\daddaa.csproj", "{0B5999A9-5963-4E13-A885-BAE3B8599643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C48B2F-AE04-4132-BA91-9418AF36F7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C48B2F-AE04-4132-BA91-9418AF36F7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C48B2F-AE04-4132-BA91-9418AF36F7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C48B2F-AE04-4132-BA91-9418AF36F7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B05A9BD-DF8A-4C33-AC07-E311B4E79EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B05A9BD-DF8A-4C33-AC07-E311B4E79EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B05A9BD-DF8A-4C33-AC07-E311B4E79EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B05A9BD-DF8A-4C33-AC07-E311B4E79EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5999A9-5963-4E13-A885-BAE3B8599643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5999A9-5963-4E13-A885-BAE3B8599643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5999A9-5963-4E13-A885-BAE3B8599643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5999A9-5963-4E13-A885-BAE3B8599643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A66865A5-F816-4805-A934-DB99980C0E4F}
+	EndGlobalSection
+EndGlobal
